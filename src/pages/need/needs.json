@@ -1,0 +1,20 @@
+[
+    { "title": "App Development" },
+    { "title": "Medical Issue" },
+    { "title": "Legal Help" },
+    { "title": "Financial Advice" },
+    { "title": "Home Repair" },
+    { "title": "Car Repair" },
+    { "title": "Clothing" },
+    { "title": "Furniture" },
+    { "title": "Appliances" },
+    { "title": "Electronics" },
+    { "title": "Education" },
+    { "title": "Employment" },
+    { "title": "Childcare" },
+    { "title": "Pet Care" },
+    { "title": "Cleaning" },
+    { "title": "Yard Work" },
+    { "title": "Moving" },
+    { "title": "Other" }
+]
